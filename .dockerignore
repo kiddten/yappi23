@@ -1,0 +1,12 @@
+.dockerignore
+.DS_Store
+.git
+.github
+.gitignore
+.gitlab-ci.yml
+.gitmodules
+.idea
+README.md
+Dockerfile
+.env
+
